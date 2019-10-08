@@ -24,7 +24,7 @@ ex2::ex2()
     cout << endl;
 
     cout << "\nUsing iterators:\n";
-    for (auto it = cars.cbegin(); it != cars.cend(); ++it)
+    for (auto it = cars.begin(); it != cars.cend(); ++it)
     {
         if((*it)[0] == 'A')
         {

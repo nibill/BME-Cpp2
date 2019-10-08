@@ -18,6 +18,7 @@
 
 #include "ex1.h"
 #include "ex2.h"
+#include "ex3.h"
 
 using namespace std;
 
@@ -35,7 +36,7 @@ int main()
 
     cout << "ex 3:" << endl;
     cout << "--------------------------------------" << endl;
-    ex3♥();
+    ex3();
     cout << endl;
 
     return 0;
