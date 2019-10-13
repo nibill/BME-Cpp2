@@ -1,0 +1,400 @@
+Jeff Bezos	112 	United States
+Bill Gates	90 	United States
+Warren Buffett	84 	United States
+Bernard Arnault	72 	France
+Mark Zuckerberg	71 	United States
+Amancio Ortega	70 	Spain
+Carlos Slim Helu	67.1 	Mexico
+Charles Koch	60 	United States
+David Koch	60 	United States
+Larry Ellison	58.5 	United States
+Michael Bloomberg	50 	United States
+Larry Page	48.8 	United States
+Sergey Brin	47.5 	United States
+Jim Walton	46.4 	United States
+S. Robson Walton	46.2 	United States
+Alice Walton	46 	United States
+Ma Huateng	45.3 	China
+Francoise Bettencourt Meyers	42.2 	France
+Mukesh Ambani	40.1 	India
+Jack Ma	39 	China
+Sheldon Adelson	38.5 	United States
+Steve Ballmer	38.4 	United States
+Li Ka-shing	34.9 	Hong Kong
+Hui Ka Yan	30.3 	China
+Lee Shau Kee	30.3 	Hong Kong
+Wang Jianlin	30 	China
+Beate Heister & Karl Albrecht Jr.	29.8 	Germany
+Phil Knight	29.6 	United States
+Jorge Paulo Lemann	27.4 	Brazil
+Francois Pinault	27 	France
+Georg Schaeffler	25.3 	Germany
+Susanne Klatten	25 	Germany
+David Thomson	25 	Canada
+Jacqueline Mars	23.6 	United States
+John Mars	23.6 	United States
+Joseph Safra	23.5 	Brazil
+Giovanni Ferrero	23 	Italy
+Dietrich Mateschitz	23 	Austria
+Michael Dell	22.7 	United States
+Masayoshi Son	22.7 	Japan
+Serge Dassault	22.6 	France
+Stefan Quandt	22 	Germany
+Yang Huiyan	21.9 	China
+Paul Allen	21.7 	United States
+Leonardo Del Vecchio	21.2 	Italy
+Dieter Schwarz	20.9 	Germany
+Thomas Peterffy	20.3 	United States
+Theo Albrecht, Jr.	20.2 	Germany
+Len Blavatnik	20.2 	United States
+He Xiangjian	20.1 	China
+Lui Che Woo	20.1 	Hong Kong
+James Simons	20 	United States
+Henry Sy	20 	Philippines
+Elon Musk	19.9 	United States
+Hinduja family	19.5 	United Kingdom
+Tadashi Yanai	19.5 	Japan
+Vladimir Lisin	19.1 	Russia
+Laurene Powell Jobs	18.8 	United States
+Azim Premji	18.8 	India
+Alexey Mordashov	18.7 	Russia
+Lee Kun-Hee	18.6 	South Korea
+Lakshmi Mittal	18.5 	India
+Wang Wei	18.2 	China
+Leonid Mikhelson	18 	Russia
+Charoen Sirivadhanabhakdi	17.9 	Thailand
+Pallonji Mistry	17.8 	Ireland
+Ray Dalio	17.7 	United States
+Takemitsu Takizaki	17.5 	Japan
+William Ding	17.4 	China
+R. Budi Hartono	17.4 	Indonesia
+Gina Rinehart	17.4 	Australia
+German Larrea Mota Velasco	17.3 	Mexico
+Carl Icahn	16.8 	United States
+Stefan Persson	16.8 	Sweden
+Michael Hartono	16.7 	Indonesia
+Joseph Lau	16.7 	Hong Kong
+Thomas & Raymond Kwok	16.5 	Hong Kong
+Vagit Alekperov	16.4 	Russia
+James Ratcliffe	16.4 	United Kingdom
+Donald Bren	16.3 	United States
+Iris Fontbona	16.3 	Chile
+Gennady Timchenko	16 	Russia
+Abigail Johnson	15.9 	United States
+Vladimir Potanin	15.9 	Russia
+Lukas Walton	15.9 	United States
+Charlene de Carvalho-Heineken	15.8 	Netherlands
+Zhang Zhidong	15.6 	China
+Petr Kellner	15.5 	Czech Republic
+Andrey Melnichenko	15.5 	Russia
+David & Simon Reuben	15.5 	United Kingdom
+Klaus-Michael Kuehne	15.3 	Germany
+Li Shufu	15.3 	China
+Mikhail Fridman	15.1 	Russia
+Rupert Murdoch	15 	United States
+Dhanin Chearavanont	14.9 	Thailand
+Robert Kuok	14.8 	Malaysia
+Emmanuel Besnier	14.7 	France
+Shiv Nadar	14.6 	India
+Viktor Vekselberg	14.4 	Russia
+Aliko Dangote	14.1 	Nigeria
+Harold Hamm	14.1 	United States
+Steve Cohen	14 	United States
+Dustin Moskovitz	14 	United States
+Marcel Herrmann Telles	14 	Brazil
+Reinhold Wuerth	13.6 	Germany
+Charles Ergen	13.4 	United States
+Eric Schmidt	13.4 	United States
+Philip Anschutz	13 	United States
+Jim Kennedy	13 	United States
+Blair Parry-Okeden	13 	United States
+Alain Wertheimer	13 	France
+Gerard Wertheimer	13 	France
+Leonard Lauder	12.9 	United States
+Heinz Hermann Thiele	12.9 	Germany
+Dilip Shanghvi	12.8 	India
+Hasso Plattner	12.7 	Germany
+Stephen Schwarzman	12.6 	United States
+Lei Jun	12.5 	China
+Hans Rausing	12.5 	Sweden
+Alisher Usmanov	12.5 	Russia
+Donald Newhouse	12.3 	United States
+Peter Woo	12.2 	Hong Kong
+Luis Carlos Sarmiento	12.1 	Colombia
+Robin Li	12 	China
+Carlos Alberto Sicupira	12 	Brazil
+Seo Jung-Jin	11.9 	South Korea
+Kumar Birla	11.8 	India
+Alexander Otto	11.8 	Germany
+Stefano Pessina	11.8 	Italy
+Udo & Harald Tschira	11.7 	Germany
+Wang Wenyin	11.7 	China
+Andrew Beal	11.6 	United States
+Lee Man Tat	11.6 	Hong Kong
+John Menard, Jr.	11.5 	United States
+Xu Shihui	11.3 	China
+Zhou Hongyi	11.3 	China
+Gong Hongjia	11.2 	Hong Kong
+Michael Otto	11 	Germany
+David Tepper	11 	United States
+Roman Abramovich	10.8 	Russia
+Liu Qiangdong	10.8 	China
+Robert & Philip Ng	10.8 	Singapore
+Alberto Bailleres Gonzalez	10.7 	Mexico
+Uday Kotak	10.7 	India
+Pierre Omidyar	10.5 	United States
+Walter P.J. Droege	10.3 	Germany
+Dietmar Hopp	10.2 	Germany
+Graeme Hart	10.1 	New Zealand
+Eduardo Saverin	10.1 	Brazil
+Yan Zhi	10.1 	China
+Radhakishan Damani	10 	India
+German Khan	9.8 	Russia
+Ronald Perelman	9.8 	United States
+Gautam Adani	9.7 	India
+Micky Arison	9.7 	United States
+Pan Zhengmin	9.7 	China
+Joseph Tsai	9.7 	Canada
+Thomas Frist, Jr.	9.6 	United States
+Mikhail Prokhorov	9.6 	Russia
+Galen Weston	9.5 	Canada
+Zong Qinghou	9.5 	China
+Eyal Ofer	9.4 	Israel
+Charles Schwab	9.4 	United States
+Gianluigi & Rafaela Aponte	9.3 	Switzerland
+Herbert Kohler, Jr.	9.3 	United States
+Viktor Rashnikov	9.3 	Russia
+Harry Triguboff	9.2 	Australia
+August von Finck	9.2 	Germany
+Yao Zhenhua	9.2 	China
+Jan Koum	9.1 	United States
+Cyrus Poonawalla	9.1 	India
+James Goodnight	9 	United States
+Ken Griffin	9 	United States
+Giorgio Armani	8.9 	Italy
+Ernesto Bertarelli	8.9 	Switzerland
+Savitri Jindal	8.8 	India
+Sunil Mittal	8.8 	India
+James Chambers	8.7 	United States
+Katharine Rayner	8.7 	United States
+Margaretta Taylor	8.7 	United States
+Terry Gou	8.5 	Taiwan
+Gordon Moore	8.5 	United States
+James Irving	8.3 	Canada
+Stanley Kroenke	8.3 	United States
+Melker Schorling	8.2 	Sweden
+Johann Graf	8.1 	Austria
+Guo Guangchang	8.1 	China
+John Malone	8.1 	United States
+Xavier Niel	8.1 	France
+Silvio Berlusconi	8 	Italy
+Carl Cook	8 	United States
+David Geffen	8 	United States
+Hui Wing Mau	8 	Hong Kong
+Walter Kwok	8 	Hong Kong
+George Soros	8 	United States
+Edward Johnson, III.	7.9 	United States
+Massimiliana Landini Aleotti	7.9 	Italy
+David Duffield	7.8 	United States
+George Kaiser	7.8 	United States
+Patrick Soon-Shiong	7.8 	United States
+Zhou Qunfei	7.8 	Hong Kong
+Nicky Oppenheimer	7.7 	South Africa
+Sun Piaoyang	7.7 	China
+Wu Yajun	7.7 	China
+Alexei Kuzmichev	7.6 	Russia
+Stephen Ross	7.6 	United States
+Vincent Bollore	7.4 	France
+Pauline MacMillan Keinath	7.4 	United States
+Jay Y. Lee	7.4 	South Korea
+Anders Holch Povlsen	7.4 	Denmark
+Eli Broad	7.3 	United States
+Michael Kadoorie	7.3 	Hong Kong
+Iskander Makhmudov	7.3 	Russia
+Frederik Paulsen	7.3 	Sweden
+Sun Hongbin	7.3 	United States
+Christy Walton	7.3 	United States
+Shahid Khan	7.2 	United States
+Ananda Krishnan	7.2 	Malaysia
+Carrie Perrodo	7.2 	France
+Quek Leng Chan	7.2 	Malaysia
+Wang Wenxue	7.2 	China
+John Doerr	7.1 	United States
+Patrick Drahi	7.1 	France
+Eva Gonda de Rivera	7.1 	Mexico
+Willi & Isolde Liebherr	7.1 	Switzerland
+Ricardo Salinas Pliego	7.1 	Mexico
+Suh Kyung-Bae	7.1 	South Korea
+Pollyanna Chu	7 	Hong Kong
+John Fredriksen	7 	Cyprus
+Goh Cheng Liang	7 	Singapore
+Sri Prakash Lohia	7 	Indonesia
+Lu Zhiqiang	7 	China
+Jorn Rausing	7 	Sweden
+Johann Rupert	7 	South Africa
+Jacques Saade	7 	France
+Wu Shaoxun	7 	China
+Leonid Fedun	6.9 	Russia
+Kim Jung-Ju	6.9 	South Korea
+Sandra Ortega Mera	6.9 	Spain
+Jim Pattison	6.9 	Canada
+Michael Platt	6.9 	United Kingdom
+Chan Laiwa	6.8 	China
+David Green	6.8 	United States
+Hank & Doug Meijer	6.8 	United States
+Dmitry Rybolovlev	6.8 	Russia
+Tsai Eng-Meng	6.8 	Taiwan
+Andreas von Bechtolsheim	6.8 	Germany
+Oleg Deripaska	6.7 	Russia
+Liu Yongxing	6.7 	China
+Ludwig Merckle	6.7 	Germany
+Brian Acton	6.6 	United States
+John Grayken	6.6 	Ireland
+Ann Walton Kroenke	6.6 	United States
+Augusto & Giorgio Perfetti	6.6 	Italy
+Finn Rausing	6.6 	Sweden
+Kirsten Rausing	6.6 	Sweden
+Odd Reitan	6.6 	Norway
+Nassef Sawiris	6.6 	Egypt
+Wee Cho Yaw	6.6 	Singapore
+Aloys Wobben	6.6 	Germany
+Leon Black	6.5 	United States
+Ivan Glasenberg	6.5 	Switzerland
+John Paulson	6.5 	United States
+Wei Jianjun	6.5 	China
+Francis Choi	6.4 	Hong Kong
+Erivan Haub	6.4 	Germany
+Jason Jiang	6.4 	China
+Suleiman Kerimov	6.4 	Russia
+Ian & Richard Livingstone	6.4 	United Kingdom
+Pang Kang	6.4 	China
+David Shaw	6.4 	United States
+Kushal Pal Singh	6.4 	India
+John A. Sobrato	6.4 	United States
+Acharya Balkrishna	6.3 	India
+Guenther Fielmann	6.3 	Germany
+Daniel Gilbert	6.3 	United States
+Antonia Johnson	6.3 	Sweden
+Vikram Lal	6.3 	India
+Akira Mori	6.3 	Japan
+Maria-Elisabeth Schaeffler-Thumann	6.3 	Germany
+Albert Frere	6.2 	Belgium
+Richard Kinder	6.2 	United States
+Robert Kraft	6.2 	United States
+Ralph Lauren	6.2 	United States
+Bruno Schroder	6.2 	United Kingdom
+Nusli Wadia	6.2 	India
+Pierre Bellon	6.1 	France
+Les Wexner	6.1 	United States
+Benu Gopal Bangur	6 	India
+David Cheriton	6 	Canada
+Ma Jianrong	6 	China
+Whitney MacMillan	6 	United States
+Dan Olsson	6 	Sweden
+Vivek Chaand Sehgal	6 	Australia
+Teh Hong Piow	6 	Malaysia
+Abdulla bin Ahmad Al Ghurair	5.9 	United Arab Emirates
+Maria Asuncion Aramburuzabala	5.9 	Mexico
+Ralph Dommermuth	5.9 	Germany
+Frank Lowy	5.9 	Australia
+Wolfgang Marguerre	5.9 	Germany
+Marijke Mars	5.9 	United States
+Pamela Mars	5.9 	United States
+Valerie Mars	5.9 	United States
+Victoria Mars	5.9 	United States
+David & Frederick Barclay	5.8 	United Kingdom
+John Gokongwei, Jr.	5.8 	Philippines
+Kwon Hyuk-Bin	5.8 	South Korea
+Nancy Walton Laurie	5.8 	United States
+Lin Yu-Ling	5.8 	Taiwan
+Tom & Judy Love	5.8 	United States
+Robert Rowling	5.8 	United States
+Dennis Washington	5.8 	United States
+Yao Liangsong	5.8 	China
+Zhang Jindong	5.8 	China
+Juan Francisco Beckmann Vidal	5.7 	Mexico
+David Sun	5.7 	United States
+John Tu	5.7 	United States
+Martin Viessmann	5.7 	Germany
+Stef Wertheimer	5.7 	Israel
+Hansjoerg Wyss	5.7 	Switzerland
+James Dyson	5.6 	United Kingdom
+Laurence Graff	5.6 	United Kingdom
+Jen-Hsun Huang	5.6 	United States
+Charles Johnson	5.6 	United States
+Jerry Jones	5.6 	United States
+Kei Hoi Pang	5.6 	China
+Kwee family	5.6 	Singapore
+Lee Shin Cheng	5.6 	Malaysia
+Richard LeFrak	5.6 	United States
+Shigenobu Nagamori	5.6 	Japan
+Steven Rales	5.6 	United States
+Friede Springer	5.6 	Germany
+Yeung Kin-man	5.6 	Hong Kong
+Rinat Akhmetov	5.5 	Ukraine
+Shari Arison	5.5 	Israel
+Dannine Avara	5.5 	United States
+Rahel Blocher	5.5 	Switzerland
+Andrew Currie	5.5 	United Kingdom
+Scott Duncan	5.5 	United States
+Milane Frantz	5.5 	United States
+Diane Hendricks	5.5 	United States
+Magdalena Martullo-Blocher	5.5 	Switzerland
+Hiroshi Mikitani	5.5 	Japan
+Gabe Newell	5.5 	United States
+Pan Sutong	5.5 	Hong Kong
+Anthony Pratt	5.5 	Australia
+John Reece	5.5 	United Kingdom
+Randa Williams	5.5 	United States
+Zhang Bangxin	5.5 	China
+Zhang Shiping	5.5 	China
+Jean-Michel Besnier	5.4 	France
+Marie Besnier Beauvalot	5.4 	France
+Richard DeVos	5.4 	United States
+Michael Herz	5.4 	Germany
+Wolfgang Herz	5.4 	Germany
+Kjeld Kirk Kristiansen	5.4 	Denmark
+Sofie Kirk Kristiansen	5.4 	Denmark
+Thomas Kirk Kristiansen	5.4 	Denmark
+Lam Wai Ying	5.4 	Hong Kong
+Lin Xiucheng	5.4 	China
+Margarita Louis-Dreyfus	5.4 	Switzerland
+George Roberts	5.4 	United States
+Edward Roski, Jr.	5.4 	United States
+Agnete Kirk Thinggaard	5.4 	Denmark
+Mike Adenuga	5.3 	Nigeria
+Jim Davis	5.3 	United States
+David Filo	5.3 	United States
+Pansy Ho	5.3 	Hong Kong
+Henry Kravis	5.3 	United States
+Emanuele (Lino) Saputo	5.3 	Canada
+Xu Chuanhua	5.3 	China
+Alexander Abramov	5.2 	Russia
+Israel Englander	5.2 	United States
+Frits Goldschmeding	5.2 	Netherlands
+Marian Ilitch	5.2 	United States
+Bruce Kovner	5.2 	United States
+George Lucas	5.2 	United States
+Kalanithi Maran	5.2 	India
+Elisabeth Mohn	5.2 	Germany
+Robert Rich, Jr.	5.2 	United States
+Wang Chuanfu	5.2 	China
+Maria Fernanda Amorim	5.1 	Portugal
+Pyotr Aven	5.1 	Russia
+Bernard Marcus	5.1 	United States
+Pedro Moreira Salles	5.1 	Brazil
+Frederick Smith	5.1 	United States
+Ronda Stryker	5.1 	United States
+Richard Branson	5 	United Kingdom
+Subhash Chandra	5 	India
+Denise Coates	5 	United Kingdom
+Martha Ingram	5 	United States
+Law Kar Po	5 	Hong Kong
+Joe Lewis	5 	United Kingdom
+Gabriella Meister	5 	Germany
+Fernando Roberto Moreira Salles	5 	Brazil
+Joao Moreira Salles	5 	Brazil
+Walther Moreira Salles Junior	5 	Brazil
+Pankaj Patel	5 	India
+Karen Pritzker	5 	United States
+Thomas Schmidheiny	5 	Switzerland
