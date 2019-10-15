@@ -5,7 +5,7 @@
  * @created  08.10.2019 09:08
  *
  * University of Bern / Bern University of Applied Sciences
- * Course 394661-FS2019-0: C++ Programming I
+ * Course 394661-FS2019-0: C++ Programming II
  */
 
 #include <iostream>
@@ -16,19 +16,21 @@ using namespace std;
 
 int main()
 {
+    ex2 ex2{};
+    Billionaire bil{};
     cout << "ex 2a:" << endl;
     cout << "--------------------------------------" << endl;
-    void ex2a();
+    ex2.ex2a();
     cout << endl;
 
     cout << "ex 2b:" << endl;
     cout << "--------------------------------------" << endl;
-    void ex2b();
+    ex2.ex2b();
     cout << endl;
 
     cout << "ex 3:" << endl;
     cout << "--------------------------------------" << endl;
-    Billionaire();
+    bil.ex3();
     cout << endl;
     return 0;
 }

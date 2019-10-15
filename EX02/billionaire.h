@@ -15,6 +15,7 @@ public:
         fortune.clear();
         country.clear();
     }
+    void ex3();
 
     string name{""};
     string fortune{""};

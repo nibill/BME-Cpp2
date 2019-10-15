@@ -7,7 +7,7 @@
 #include <algorithm>
 #include "billionaire.h"
 
-Billionaire::Billionaire()
+void Billionaire::ex3()
 {
     ifstream stream("Forbes2018.txt");
 	if(!stream)
