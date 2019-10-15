@@ -1,13 +1,8 @@
 #ifndef BILLIONAIRE_H
 #define BILLIONAIRE_H
 
-#include <map>
 #include <string>
-#include <iterator>
-#include <algorithm>
 #include <iostream>
-#include <fstream>
-#include <vector>
 
 using namespace std;
 
@@ -21,21 +16,21 @@ public:
         country.clear();
     }
 
-    string name;
-    string fortune;
-    string country;
+    string name{""};
+    string fortune{""};
+    string country{""};
 
-    friend istream& operator >>(istream& in, Billionaire &Destination)
+    inline friend istream& operator >>(istream& in, Billionaire &b)
     {
-        getline(in,Destination.name,'\t');
-        getline(in,Destination.fortune,'\t');
-        getline(in,Destination.country,'\n');
-           return in;
+        getline(in, b.name, '\t');
+        getline(in, b.fortune, '\t');
+        getline(in, b.country, '\n');
+        return in;
     }
 
-    friend ostream& operator <<(ostream& out, const Billionaire &Source)
-    { //const is a key word as friend it is.
-        out<<Source.name <<" "<<Source.fortune<<" "<<Source.country;
+    inline friend ostream& operator <<(ostream& out, const Billionaire &b)
+    {
+        out << b.name << " " << b.fortune << " " << b.country;
         return out;
     }
 };

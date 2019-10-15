@@ -12,8 +12,6 @@ add_executable(${PROJECT_NAME}
     main.cpp
     ex2.cpp
     ex2.h
-    ex3.cpp
-    ex3.h
     billionaire.cpp
     billionaire.h)
 

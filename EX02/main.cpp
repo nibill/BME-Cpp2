@@ -10,7 +10,7 @@
 
 #include <iostream>
 #include "ex2.h"
-#include "ex3.h"
+#include "billionaire.h"
 
 using namespace std;
 
@@ -28,7 +28,7 @@ int main()
 
     cout << "ex 3:" << endl;
     cout << "--------------------------------------" << endl;
-    ex3();
+    Billionaire();
     cout << endl;
     return 0;
 }
