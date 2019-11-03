@@ -18,7 +18,7 @@ add_executable(${PROJECT_NAME}
 find_package(Threads)
 
 # Define required c++ standard to C++11
-target_compile_features(${PROJECT_NAME} PUBLIC cxx_std_11)
+target_compile_features(${PROJECT_NAME} PUBLIC cxx_std_17)
 
 # Set compile options, enable warnings
 target_compile_options(${PROJECT_NAME} PRIVATE
@@ -26,5 +26,5 @@ target_compile_options(${PROJECT_NAME} PRIVATE
 	$<$<CXX_COMPILER_ID:MSVC>: /Wall>
 )
 
-FILE(COPY Files/threadLog.txt DESTINATION ${PROJECT_BINARY_DIR})
-FILE(COPY Files/threadLogSafe.txt DESTINATION ${PROJECT_BINARY_DIR})
+FILE(COPY threadLog.txt DESTINATION ${PROJECT_BINARY_DIR})
+FILE(COPY threadLogSafe.txt DESTINATION ${PROJECT_BINARY_DIR})
