@@ -26,27 +26,27 @@ void OCR::GenerateOcrData(string trainImg)
     vector <Vec4i> hierarchy;
 
     //load the training image and check if it has loaded correctly
-    matTrainingImage = imread(trainImg, CV_LOAD_IMAGE_UNCHANGED);
-    if (matTrainingImage.empty())
+    m_matTrainingImage = imread(trainImg, CV_LOAD_IMAGE_UNCHANGED);
+    if (m_matTrainingImage.empty())
     {
         cout << "couldn't load the training image\n\nExiting theProgram now.....";
         system("PAUSE");
         exit(1);
     }
 
-    imshow("TrainingImg", matTrainingImage);
+    imshow("TrainingImg", m_matTrainingImage);
 
     //perform some preprocesings
-    cvtColor(matTrainingImage, matGrayedImage, CV_BGR2GRAY);
-    GaussianBlur(matGrayedImage, matBlurredImage, Size(3, 3), 0);
-    adaptiveThreshold(matBlurredImage, matThresholdImage, 255, ADAPTIVE_THRESH_MEAN_C, THRESH_BINARY_INV, 3, 2);
-    imshow("threshTrain", matThresholdImage);
+    cvtColor(m_matTrainingImage, m_matGrayedImage, CV_BGR2GRAY);
+    GaussianBlur(m_matGrayedImage, m_matBlurredImage, Size(3, 3), 0);
+    adaptiveThreshold(m_matBlurredImage, m_matThresholdImage, 255, ADAPTIVE_THRESH_MEAN_C, THRESH_BINARY_INV, 3, 2);
+    imshow("threshTrain", m_matThresholdImage);
 
     //clone the threshold image,because the findcontour changes it
-    matThresholdClone = matThresholdImage.clone();
+    m_matThresholdClone = m_matThresholdImage.clone();
 
     //find the contours
-    findContours(matThresholdImage, contours, hierarchy, CV_RETR_EXTERNAL, CV_CHAIN_APPROX_SIMPLE);
+    findContours(m_matThresholdImage, contours, hierarchy, CV_RETR_EXTERNAL, CV_CHAIN_APPROX_SIMPLE);
 
     for (int i = 0; i < contours.size(); i++)
     {
@@ -61,10 +61,10 @@ void OCR::GenerateOcrData(string trainImg)
             rect.height += 2;
             rect.width += 2;
 
-            rectangle(matTrainingImage, rect, Scalar(0, 255, 0), 1, CV_AA);
-            imshow("TrainingImg", matTrainingImage);
+            rectangle(m_matTrainingImage, rect, Scalar(0, 255, 0), 1, CV_AA);
+            imshow("TrainingImg", m_matTrainingImage);
 
-            Mat currentDigit = matThresholdClone(rect);
+            Mat currentDigit = m_matThresholdClone(rect);
             imshow("currentDigit", currentDigit);
 
             Mat resizedDigit;
@@ -79,7 +79,7 @@ void OCR::GenerateOcrData(string trainImg)
             }
             else if (find(validNums.begin(), validNums.end(), input) != validNums.end())
             {
-                matClassNums.push_back(input);
+                m_matClassNums.push_back(input);
 
                 Mat matFloatImage;
                 resizedDigit.convertTo(matFloatImage, CV_32FC1);
@@ -101,7 +101,7 @@ void OCR::GenerateOcrData(string trainImg)
         exit(1);
     }
 
-    classificationFile << "classifications" << matClassNums;
+    classificationFile << "classifications" << m_matClassNums;
 
     classificationFile.release();
 
@@ -145,18 +145,18 @@ int  OCR::Train(Mat img)
     imageFile["Images"] >> imageAsFlattenedFloatTrain;
     imageFile.release();
 
-    knearest = KNearest();
-    knearest.train(imageAsFlattenedFloatTrain, classificationNumsTrain);
+    m_knearest = KNearest();
+    m_knearest.train(imageAsFlattenedFloatTrain, classificationNumsTrain);
 
     //cout << "Training complete!!!!......";
 
-    matTestImage = img;
-    matTestImage.convertTo(matFloatImage, CV_32FC1);
+    m_matTestImage = img;
+    m_matTestImage.convertTo(m_matFloatImage, CV_32FC1);
 
     Mat flattenedimg;
-    flattenedimg = matFloatImage.reshape(1, 1);
+    flattenedimg = m_matFloatImage.reshape(1, 1);
 
-    float character = knearest.find_nearest(flattenedimg, 1);
+    float character = m_knearest.find_nearest(flattenedimg, 1);
     char digit = char(int(character));
 
     switch (digit) {
@@ -208,15 +208,3 @@ int  OCR::Train(Mat img)
     }
 }
 
-void OCR::Recognize(Mat img)
-{
-    /*matTestImage = img;
-
-    matTestImage.convertTo(matFloatImage, CV_32FC1);
-    Mat flattenedimg;
-    flattenedimg = matFloatImage.reshape(1, 1);
-
-    float character = knearest.find_nearest(flattenedimg, 1);
-
-    cout << char(int(character));*/
-}

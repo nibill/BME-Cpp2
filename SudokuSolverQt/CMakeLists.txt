@@ -24,6 +24,8 @@ add_executable(SudokuSolverQt
   sudoku.cpp
   OCR.h
   OCR.cpp
+  ImageProcessing.cpp
+  ImageProcessing.h
 )
 
 target_link_libraries(SudokuSolverQt PRIVATE Qt5::Widgets ${OpenCV_LIBS})
